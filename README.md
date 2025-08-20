@@ -1,2 +1,2 @@
-# AU18-agi1
+# AU18-Weather & News Assistant AI
 AI Agent
